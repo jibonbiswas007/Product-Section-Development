@@ -1,0 +1,40 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+.food-box-info h3 {
+  font-size: 35px;
+}
+    
+}
+    
+
+/* tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+.food-box-info h3 {
+  font-size: 35px;
+}
+.food-box-info h2 {
+  font-size: 25px;
+  line-height: 35px;
+}
+
+}
+
+    
+    
+/* Small Mobile :320px. */
+
+@media (max-width: 767px) {
+.single-food-box {
+  margin: 40px 0;
+}
+}
+    
+    
+    
+/* Large Mobile :480px. */
+@media (min-width: 480px) and (max-width: 767px) {
+
+
+}
